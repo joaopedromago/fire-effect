@@ -3,8 +3,6 @@ const DISPLAY_SIZE = 100;
 
 const displayMatrix = [];
 
-let currentRenderValue = DISPLAY_HEIGHT - 2;
-
 function renderCanvas() {
   let canvas = "<table>";
 
